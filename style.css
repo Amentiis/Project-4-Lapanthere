@@ -264,12 +264,28 @@ a:hover {
     border-color: rgba(0, 0, 0, .3);
 }
 
+
+.services h1{
+    font-size: 30px;
+    padding: 10px;
+}
+
 .voffset {
     margin-top: 30px;
 }
 
 .voffset-lg {
     margin-top: 80px;
+}
+
+.voffset q{
+    font-weight: 500;
+    color: black;
+}
+
+.voffset p{
+    font-size: 20px;
+    margin-top: 10px;
 }
 
 .row-no-gutters {
