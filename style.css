@@ -521,6 +521,11 @@ button {
     border-radius: 0 0 29px 29px;
 }
 
+.annuaire{
+
+    margin-bottom: 10px;
+}
+
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
