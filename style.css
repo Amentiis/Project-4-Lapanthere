@@ -42,6 +42,17 @@ a:hover {
     filter: brightness(110%);
 }
 
+.logo{
+    width :200px;
+    height: 200px;
+}
+
+.agancename{
+    height : 40px;
+    width : 220px
+}
+
+
 .bloc {
     width: 100%;
     clear: both;
@@ -781,6 +792,8 @@ h4 {
     margin-bottom: 24px;
     margin-left: auto;
     margin-right: auto;
+    width: 270px;
+    height: 270px;
 }
 
 .portfolio-row {
