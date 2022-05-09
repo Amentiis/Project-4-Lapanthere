@@ -543,6 +543,37 @@ button {
     border-radius: 29px 29px 0 0;
 }
 
+.section-annuaire{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.section-annuaire span{
+    font-size: 35px;
+}
+
+.section-annuaire .under{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.section-annuaire .under .list-annuaire{
+    display: flex;
+    flex-direction: row;
+}
+
+.section-annuaire .under .list-annuaire li{
+    margin-right: 5vw;
+}
+
+.section-annuaire .under a{
+    font-size: 30px;
+}
+
 .panel-rd .panel-footer {
     border-radius: 0 0 29px 29px;
 }
@@ -550,6 +581,17 @@ button {
 .annuaire{
 
     margin-bottom: 10px;
+}
+
+.social span {
+    font-size: 40px !important;
+}
+
+@media (max-width:1328px) {
+    .section-annuaire .under .list-annuaire{
+        flex-direction: column;
+    }
+   
 }
 
 .form-control {
