@@ -46,6 +46,10 @@ a:hover {
     font-size: 20px;
 }
 
+.formulaire label{
+    width: 100%;
+}
+
 .titre-formulaire{
     margin-top: -60px;
 }
