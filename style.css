@@ -42,6 +42,14 @@ a:hover {
     filter: brightness(110%);
 }
 
+.formulaire p{
+    font-size: 20px;
+}
+
+.titre-formulaire{
+    margin-top: -60px;
+}
+
 .logo{
     width :200px;
     height: 200px;
