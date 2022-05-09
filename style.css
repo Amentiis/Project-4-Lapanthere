@@ -602,6 +602,10 @@ button {
 @media (max-width:1328px) {
     .section-annuaire .under .list-annuaire{
         flex-direction: column;
+        
+    }
+    .section-annuaire .under a {
+        font-size: 20px;
     }
    
 }
