@@ -1091,6 +1091,10 @@ h4 {
     .bloc-lg {
         padding: 40px 0;
     }
+
+    .titre-formulaire{
+        margin-top: 0;
+    }
     .bloc-sm,
     .bloc-md {
         padding-left: 0;
