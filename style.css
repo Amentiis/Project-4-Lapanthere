@@ -599,6 +599,17 @@ button {
     font-size: 40px !important;
 }
 
+.btn-background{
+    background-color: #94381E;
+}
+
+.footer-background{
+    background: rgb(123,73,50);
+    background: linear-gradient(180deg, rgba(123,73,50,1) 0%, rgba(243,151,108,1) 100%);
+}
+
+
+
 @media (max-width:1328px) {
     .section-annuaire .under .list-annuaire{
         flex-direction: column;
