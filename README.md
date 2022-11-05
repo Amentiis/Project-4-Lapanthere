@@ -1,3 +1,5 @@
+![Piiquante](https://user-images.githubusercontent.com/72757068/138886696-b2949b5f-4d87-4eda-969f-e31d82e2a858.PNG)
+
 # P6_PIIQUANTE_API
 Prérequis : 
 - Environnement Node.js
